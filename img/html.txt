@@ -1,0 +1,393 @@
+    <header>
+        <nav class="Menu menu-1">
+            <ul class="Menu-top">
+                <li>
+                    <a><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                </li>
+                <li>
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+
+                </li>
+                <li>
+                    <i class="fa fa-youtube-play" aria-hidden=" true"></i>
+                </li>
+                <li>
+                    <i class="fa fa-wifi" aria-hidden=" true "></i>
+                </li>
+                <li>
+                    <i class="fa fa-reddit" aria-hidden=" true "></i>
+                </li>
+                <li>
+                    <i class="fa fa-tumblr" aria-hidden=" true "></i>
+                </li>
+
+            </ul>
+            <ul class="Menu-top">
+                <li><i class="fa fa-map-marker" aria-hidden=" true "></i>&nbsp;&nbsp;9873 Ridgewood Street Elgin, IL 60120</li>
+                <li><i class="fa fa-phone" aria-hidden=" true "></i>&nbsp;&nbsp;+1-795-5582-795</li>
+            </ul>
+        </nav>
+        <nav class="menu menu-2">
+            <div class="logo">
+                <img class="image-logo" src="./images/logo.svg" alt="viso-logo">
+                <h2 class="logo-text">Viso</h2>
+            </div>
+
+            <ul class=" Menu-main">
+                <li>
+                    <Select><option value="Home">Home</option></Select>
+                </li>
+                <li><a>Services</a></li>
+                <Select><option value="Home">Pages</option></Select>
+                <li>
+                    <Select><option value="Home">News</option></Select>
+                </li>
+                <li><a>Contact</a></li>
+            </ul>
+            <div class="search">
+                <span class="icon-search"><i class="fa fa-search" aria-hidden=" true "></i></span>
+                <button class="blue-button">My Account</button>
+            </div>
+
+
+        </nav>
+    </header>
+    <section class="homepage-1">
+
+        <div class="home-page">
+
+            <h1>Best Lab-Testing Methods</h1>
+            <h3>SARS Cov-2 Coronavirus (COVID-19)</h3>
+            <p>Pellentesque fringilla nisi eros, quis vulputate diam rutrum et. Mauris in erat auctor, scelerisque nisi in, laoreet risus. Phasellus venenatis tellus eget turpis vestibulum tempor. In tempor tincidunt porttitor</p>
+            <button class="blue-button">Learn How It Works </button>
+
+        </div>
+
+
+    </section>
+    <section class="about">
+
+        <div class="cards cards-1">
+
+            <div class="card-content">
+                <div class="card-img">
+                    <div class="card-i green"><img src="images/computer.svg"></div>
+                </div>
+
+                <div class="card-title">
+                    <h4>Online Appointment and Consultation</h4>
+                </div>
+                <div class="card-text">
+                    <p>Phasellus nec magna posuere, convallis nibh sit amet, vehicula augue. Vestibulum odio lorem, dapibus id ligula quis…</p>
+                    <a href="#">Read More</a>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="cards cards-2">
+
+            <div class="card-content">
+                <div class="card-img">
+                    <div class="card-i red"><img src="images/computer.svg"></div>
+                </div>
+                <div class="card-title">
+                    <h4>Emergency Case</h4>
+                    <h4><i class="fa fa-phone"></i>&nbsp;&nbsp;+1-795-5582-795</h4>
+                </div>
+                <div class="card-text">
+                    <p>Phasellus nec magna posuere, convallis nibh sit amet, vehicula</p>
+                    <a href="#">Read More</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="cards cards-3">
+
+            <div class="card-content">
+                <div class="card-img">
+                    <div class="card-i blue"><img src="images/computer.svg"></div>
+                </div>
+                <div class="card-title">
+                    <h4>About Our Laboratory and Doctors</h4>
+                </div>
+                <div class="card-text">
+                    <p>Phasellus nec magna posuere, convallis nibh sit amet, vehicula augue. Vestibulum odio lorem, dapibus id ligula quis…</p>
+                    <a href="#">Read More</a>
+                </div>
+            </div>
+
+        </div>
+
+
+
+    </section>
+    <!-- coranana cycle -->
+    <div class="corona-test">
+        <div class="corona-test-1">
+            <div class="corona-title">
+                <h2>How to get tested for Coronavirus</h2>
+                <p>Before testing, it is worth reading more detailed information or consulting your doctor. The information below is not a guide to action and is for informational purposes only</p>
+            </div>
+            <div class="corona-cycle">
+                <div class="part-1">
+
+                    <div class="cycle-1">
+                        <article class="cycle-content">
+                            <div class="cycle-title">
+                                <h2>Availability of test results anywhere in the world</h2>
+                                <p>You will receive the test results to your mail in document format and to your account</p>
+                            </div>
+                            <div class="cycle-img">
+                                <div class="cycle-1-i">
+                                    <img src="./images/network.svg">
+                                </div>
+                            </div>
+                        </article>
+
+                    </div>
+
+
+
+                    <div class="cycle-1">
+                        <article class="cycle-content">
+                            <div class="cycle-title">
+                                <h2>Information about test results is confidential</h2>
+                                <p>Right to dispose of the information received in accordance with the current legislation</p>
+                            </div>
+                            <div class="cycle-img">
+                                <div class="cycle-1-i">
+                                    <img src="./images/network-2.svg">
+                                </div>
+                            </div>
+
+                        </article>
+
+                    </div>
+
+
+                    <div class="cycle-1">
+                        <article class="cycle-content">
+                            <div class="cycle-title">
+                                <h2>Pay for testing online or at the test location</h2>
+                                <p>After payment, you leave your contact information to receive test results</p>
+                            </div>
+                            <div class="cycle-img">
+                                <div class="cycle-1-i">
+                                    <img src="./images/net-3.svg">
+                                </div>
+                            </div>
+                        </article>
+
+                    </div>
+
+
+                </div>
+
+                <div class="cycle-image"> <img src="./images/Arrow Circle Progressbar.svg" alt=""></div>
+                <div class="part-2">
+
+                    <div class="cycle-1">
+                        <article class="cycle-content content-1">
+                            <div class="cycle-title">
+                                <h2>Get a doctor's consultation if You have any question</h2>
+                                <p>Face-to-face or Online you can get a consultation at any testing stage</p>
+                            </div>
+                            <div class="cycle-img">
+                                <div class="cycle-1-i">
+                                    <img src="./images/net-4.svg">
+                                </div>
+                            </div>
+                        </article>
+
+                    </div>
+
+
+                    <div class="cycle-1">
+                        <article class="cycle-content content-1">
+                            <div class="cycle-title">
+                                <h2>Sign up for testing</h2>
+                                <p>Fill out the online form.A consultation with a doctor will help you to choose the right type of testing</p>
+                            </div>
+                            <div class="cycle-img">
+                                <div class="cycle-1-i">
+                                    <img src="./images/net-5.svg">
+                                </div>
+                            </div>
+                        </article>
+
+                    </div>
+
+
+                    <div class="cycle-1">
+                        <article class="cycle-content content-1">
+                            <div class="cycle-title">
+                                <h2>Arrive at the appointed time for testing</h2>
+                                <p>Testing is carried out in accordance with the previously selected type of testing</p>
+                            </div>
+                            <div class="cycle-img">
+                                <div class="cycle-1-i">
+                                    <img src="./images/net-6.svg">
+                                </div>
+                            </div>
+                        </article>
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+            <div class="cycle-button">
+                <button class="blue-button">SIGN UP FOR A TEST</button>
+            </div>
+        </div>
+
+    </div>
+    <!-- testing parts -->
+    <div id="testings">
+        <div class="testings-1">
+            <div class="test-context">
+                <h1>Types of testing</h1>
+                <p>Aliquam et dolor tincidunt odio consequat posuere et non purus. Sed enim lacus, tincidunt pellentesque justo sit amet, accumsan consectetur nisi. Praesent at est id nisl fringilla convallis. Maecenas vel nibh aliquet</p>
+            </div>
+            <div class="testing-cards">
+                <div id="test-card">
+                    <div class="test-card-design-1 test-card-design">
+                        <img src="./images/Img-3.png" alt="" srcset="">
+                    </div>
+                    <div class="test-card-content">
+                        <div class="line line-1"></div>
+                        <div class="test-card-head">
+                            <h3>Molecular test</h3>
+                            <p><strong>(RNA or PCR test)</strong></p>
+                            <span>$ 40</span>
+                            <p class="qr">QR Code Results / Availability in Airports / 2 Day Results</p>
+                        </div>
+                        <hr>
+                        <div class="test-card-desc">
+                            <ul>
+                                <li>Rhoncus mattis rhoncus urna neque viverra justo. In nisl nisi scelerisque</li>
+                                <li>Tempor commodo ullamcorper a lacus vestibulum sed. Viverra nam libero justo</li>
+                                <li>Rhoncus mattis rhoncus urna neque viverra justo. In nisl nisi scelerisque</li>
+                            </ul>
+                        </div>
+                        <div class="test-button">
+                            <button class="blue-button">SIGN UP FOR A TEST</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="test-card">
+                    <div class="test-card-design-2 test-card-design">
+                        <img src="./images/Img-3.png" alt="" srcset="">
+                    </div>
+                    <div class="test-card-content">
+                        <div class="line line-2"></div>
+                        <div class="test-card-head">
+                            <h3>Molecular test</h3>
+                            <p><strong>(Serology test or Blood test)</strong></p>
+                            <span>$ 80</span>
+                            <p class="qr">Highly accurate / QR Code Results / Only in laboratory conditions / 5 Day Results</p>
+                        </div>
+                        <hr>
+                        <div class="test-card-desc">
+                            <ul>
+                                <li>Rhoncus mattis rhoncus urna neque viverra justo. In nisl nisi scelerisque</li>
+                                <li>Tempor commodo ullamcorper a lacus vestibulum sed. Viverra nam libero justo</li>
+                                <li>Rhoncus mattis rhoncus urna neque viverra justo. In nisl nisi scelerisque</li>
+                            </ul>
+                        </div>
+                        <div class="test-button">
+                            <button class="blue-button">SIGN UP FOR A TEST</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="test-card">
+                    <div class="test-card-design-3 test-card-design">
+                        <img src="./images/Img-3.png" alt="" srcset="">
+                    </div>
+                    <div class="test-card-content">
+                        <div class="line line-3"></div>
+                        <div class="test-card-head">
+                            <h3>Antigen test</h3>
+                            <p><strong>(Rapid test)</strong></p>
+                            <span>$ 120</span>
+                            <p class="qr">Rapid PCR-based combination / Availability in Airports / 2 Hours</p>
+                        </div>
+                        <hr>
+                        <div class="test-card-desc">
+                            <ul>
+                                <li>Rhoncus mattis rhoncus urna neque viverra justo. In nisl nisi scelerisque</li>
+                                <li>Tempor commodo ullamcorper a lacus vestibulum sed. Viverra nam libero justo</li>
+                                <li>Rhoncus mattis rhoncus urna neque viverra justo. In nisl nisi scelerisque</li>
+                            </ul>
+                        </div>
+                        <div class="test-button">
+                            <button class="blue-button">SIGN UP FOR A TEST</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- nearest map part -->
+    <div class="map-part">
+        <div id="map-sec">
+            <div class="map">
+                <img src="./images/Map-1.svg" alt="">
+            </div>
+            <div id="map-location-part">
+                <div class="map-search-part">
+                    <div class="map-header">
+                        <h2>Find the nearest laboratory</h2>
+                        <p>Praesent metus eros, interdum tristique arcu posuere, tincidunt imperdiet dui. Mauris rutrum eu nisi vitae egesta</p>
+                    </div>
+                    <div class="map-search">
+                        <input type="text" placeholder="City..">
+                        <div class="button-search">
+                            <button class="blue-button btn">FIND LABORATORY</button>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="search-items">
+                    <div class="items">
+                        <ul>
+                            <li><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Diagnostic Center:</li>
+                            <p>3396 Flint Street Atlanta, GA 30329</p>
+                            <li><i class="fa fa-clock-o"></i>&nbsp;&nbsp; 9 a.m. to 5 p.m</li>
+                            <li><i class="fa fa-phone"></i>&nbsp;&nbsp;+1 678-235-5649</li>
+                        </ul>
+                    </div>
+                    <div class="items">
+                        <ul>
+                            <li><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Diagnostic Center:</li>
+                            <p>3396 Flint Street Atlanta, GA 30329</p>
+                            <li><i class="fa fa-clock-o"></i>&nbsp;&nbsp; 9 a.m. to 5 p.m</li>
+                            <li><i class="fa fa-phone"></i>&nbsp;&nbsp;+1 678-235-5649</li>
+                        </ul>
+                    </div>
+                    <div class="items">
+                        <ul>
+                            <li><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Diagnostic Center:</li>
+                            <p>3396 Flint Street Atlanta, GA 30329</p>
+                            <li><i class="fa fa-clock-o"></i>&nbsp;&nbsp; 9 a.m. to 5 p.m</li>
+                            <li><i class="fa fa-phone"></i>&nbsp;&nbsp;+1 678-235-5649</li>
+                        </ul>
+                    </div>
+                    <div class="items">
+                        <ul>
+                            <li><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Diagnostic Center:</li>
+                            <p>3396 Flint Street Atlanta, GA 30329</p>
+                            <li><i class="fa fa-clock-o"></i>&nbsp;&nbsp; 9 a.m. to 5 p.m</li>
+                            <li><i class="fa fa-phone"></i>&nbsp;&nbsp;+1 678-235-5649</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
