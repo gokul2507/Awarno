@@ -1003,3 +1003,152 @@ font-family: 'Manrope', sans-serif;
     opacity: 0.5;
     width: 209px;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #387EFA;
+    height: 100vh;
+    color: #FFFFFF;
+    font-family: "Manrope";
+    padding: 100px 250px;
+}
+
+.contact-input {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 25px 0px;
+    background-color: #fff;
+    font-weight: 800;
+    color: #0A083B;
+    border-radius: 8px;
+}
+
+.contact-label {
+    font-size: 22px;
+    font-weight: 700;
+    color: #0A083B;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.asd {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.contact-btn {
+    color: #fff;
+    padding: 11px 50px;
+    background-color: #387EFA;
+    border: none;
+    border-radius: 8px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: 100;
+    padding: 50px 0px;
+    padding-right: 40px;
+}
+
+.footer-inner-detail {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-head {
+    display: flex;
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+
+.footer-logo {
+    width: 75px;
+    height: 75px;
+}
+
+.footer-inner-nav>ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0px;
+}
+
+.contact-number {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 40px;
+}
+
+.contact-number>p {
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 10px;
+}
+
+.footer-map-image>img {
+    border-radius: 8px;
+}
+
+.footer-contact-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0px;
+}
+
+.footer-card {
+    display: flex;
+}
+
+.footer-card>i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 15px;
+    background-color: #FFF;
+    padding: 10px 10px;
+    margin-right: 5px;
+    border-radius: 100px;
+    color: #387EFA;
+}
+
+.footer-card-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-card-inner {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.footer-card-title {
+    color: #D2D3E5;
+    font-size: 15px;
+    font-weight: 700;
+}
